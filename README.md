@@ -4,7 +4,7 @@
 |------|--------|------|----------|--------|--------|--------|--------|--------|----------|
 | TeamViewer | 德国 TeamViewer SE | ❌ 闭源 | 自研协议（基于 UDP/TCP） | 个人免费（检测商用即封） | 订阅制（ $ 50+/月起） | 🔐 高（端到端加密 + 双因素认证） | ✅ Win/macOS/Linux/iOS/Android | ⚠️ 有限（优先中继） | ❌ 不支持 |
 | AnyDesk | 德国 AnyDesk GmbH | ❌ 闭源 | DeskRT（自研编解码 + WebRTC） | 个人免费（严格限商用） | 订阅制（€10+/月起） | 🔐 高（TLS 1.3 + RSA 2048） | ✅ 全平台 | ✅ 较强（智能 P2P） | ❌ 不支持 |
-| RustDesk | 开源社区（中国开发者主导） | ![GitHub stars](https://img.shields.io/github/stars/rustdesk/rustdesk.svg?style=social) | 基于 Rust + WebRTC + QUIC | 完全免费（可商用） | 无（靠捐赠/企业托管服务） | 🔐 高（可自建，密钥自主） | ✅ 全平台 | ✅ 原生 P2P（支持打洞） | ✅ 一键自建（hbbr/hbbs） |
+| RustDesk | 开源社区（中国开发者主导） | <img src="https://img.shields.io/github/stars/rustdesk/rustdesk.svg?style=social" width="250" /> | 基于 Rust + WebRTC + QUIC | 完全免费（可商用） | 无（靠捐赠/企业托管服务） | 🔐 高（可自建，密钥自主） | ✅ 全平台 | ✅ 原生 P2P（支持打洞） | ✅ 一键自建（hbbr/hbbs） |
 | ToDesk | 中国 海南有趣科技 | ❌ 闭源 | 自研 + WebRTC | 个人免费（限速） | 增值服务 + 企业定制 | ⚠️ 中（宣称端到端，但未开源验证） | ✅ 全平台 | ✅ 强（主打“全球加速”） | ✅ 企业版支持 |
 | UU远程 | 中国 网易旗下 | ❌ 闭源 | 自研（基于网易云） | 个人免费 | 游戏加速捆绑 + 企业服务 | ⚠️ 中（依赖网易生态） | ✅ 主流平台 | ⚠️ 有限 | ❌ 不支持 |
 | 向日葵 | 中国 贝锐（Oray） | ❌ 闭源 | 自研“RayLink”协议 | 个人免费（限速+广告） | 增值服务（带宽加速、高级功能） | ⚠️ 中（国内合规加密） | ✅ 全平台 | ✅ 支持（需内网穿透） | ✅ 企业版支持 |
